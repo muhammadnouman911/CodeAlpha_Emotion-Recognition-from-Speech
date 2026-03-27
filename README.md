@@ -54,4 +54,3 @@ The 1D CNN consists of:
 - Dense (Fully Connected) layers for final emotion classification.
 
 ---
-*Developed for the CodeAlpha Artificial Intelligence Internship.*
